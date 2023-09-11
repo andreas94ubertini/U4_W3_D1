@@ -1,0 +1,18 @@
+La pagina, opportunamente sviluppata con CSS, dovrà presentare:
+• Un menu a tendina da cui selezionare il modello di una auto in vendita. La selezione di una auto comporterà la stampa a schermo della immagine dell’autovettura scelta oltre che al prezzo di partenza della stessa,
+• Una serie di checkbox che dovranno consentire la scelta di uno o più optional tra cui:
+o Vernice metallizzata (costo euro 330,00),
+o Fari Xeno (costo euro 180,00),
+o Sistema navigazione satellitare (costo euro 1.800,00),
+o Line Assistant (costo euro 2.000,00),
+o Ruota di scorta (costo euro 155,00),
+o Sedili/volante in pelle (costo euro 700,00).
+
+Il costo di uno più optional scelti deve essere aggiunto al prezzo di partenza della autovettura.
+
+• Un menu a tendina per il numero di anni di garanzia a scelta tra 1, 2, 3 e 4 anni. Il costo della garanzia è pari ad euro 120,00 per ogni anno scelto.
+Un pulsante deve poter stampare a schermo:
+• Il prezzo di partenza della autovettura scelta,
+• Il totale dei soli optionals scelti,
+• Il totale del costo della garanzia,
+• Il totale complessivo dato dalla somma di tutti i totali di cui sopra.
